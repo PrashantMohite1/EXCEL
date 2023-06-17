@@ -1,0 +1,15 @@
+
+what is macro ?
+basically kahi work ase aste je apalyala repetedivly karave lagte tar te task apan record karu shakto ani macro chya madtine ani tya task la apan ek shortcut key deu shakto
+
+step for macro -: refer - https://youtu.be/Yb-xKkqMs04     watch from 17:00
+_______________________________________________________________________________________________________
+   1. go to developer tab --> record micro --> enter micro name -: 
+                                               shortcut key -: enter unique shortkey for your micro , asa shortkey choose kara jo ki ms excel ni vaparlela nasel
+                                                               ex-: ctrl + c  ha basically copy cha shortcut ahe tar ase shortcut sodun new shortkey dya
+                                               store micro in -:  this workbook 
+                                               ok --> after that micro recording started
+   2. --> ata apan aplyala jo task repeteadly karaychay to karycha only to task karayche --> stop recording 
+   
+   3. ata next time same work karnyasathi apan macro chi shortcut key use karnar 
+                                               
